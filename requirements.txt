@@ -1,0 +1,15 @@
+# Snapshot of D:\python-envs\pytorch-gpu (64-bit CPython 3.13.15)
+pandas==3.0.6
+
+# CUDA 12.6 build installed in the environment
+--extra-index-url https://download.pytorch.org/whl/cu126
+torch==2.13.0+cu126
+torchtext==0.6.0
+
+spacy==3.8.18
+altair==6.3.0
+jupytext==1.19.6
+flake8==7.5.0
+black==26.10.1
+GPUtil==1.4.0
+wandb==0.31.0
